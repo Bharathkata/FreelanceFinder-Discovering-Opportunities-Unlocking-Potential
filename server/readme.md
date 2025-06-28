@@ -1,1 +1,1 @@
-project related files
+project releated files for server
